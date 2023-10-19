@@ -1,0 +1,9 @@
+COisas que eu fiz no desafio.
+
+IDE USADA Eclipse
+Alterei nomes dos pacotes.
+Fiz Comentarios do que cada coisa é feita. 
+No video : Praticando com Java Puro: Singleton no tempo 10:18 ele duplica uma classe porém ele não explica como se faz isso.
+alterei os nome das classes.
+Alterei nome dos metodos.
+
