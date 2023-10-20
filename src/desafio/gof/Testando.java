@@ -5,6 +5,7 @@ import estrategia.ComportamentoAgressivo;
 import estrategia.ComportamentoDefensivo;
 import estrategia.ComportamentoNormal;
 import estrategia.Robo;
+import facade.Facade;
 
 public class Testando {
 
@@ -42,6 +43,11 @@ public class Testando {
 		robo.setComportamento(agressivo);
 		robo.mover();
 		robo.mover();
+		
+		// Facade
+		
+		Facade facade = new Facade();
+		facade.migrarCliente("Junior", "123");
 
 	}
 
